@@ -13,3 +13,5 @@ Definition: This is to create a program that represents a simple calculator, wit
  Delete of registered variable (“MC” button)
 
  Constant values: number Pi, number e.
+
+The interface has been created using Java Swing (GUI).
